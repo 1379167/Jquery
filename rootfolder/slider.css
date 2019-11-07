@@ -1,0 +1,11 @@
+#panel, #li {
+  padding: 5px;
+  text-align: center;
+  background-color: #438708;
+  border: solid 1px #a6b52e;
+}
+
+#panel {
+  padding: 5px;
+  display: none;  
+}
